@@ -1,3 +1,3 @@
 # Finance-with-python
 
-# Finance-calculating-and-comparing-rates-of-return.
+## Finance-calculating-and-comparing-rates-of-return.
